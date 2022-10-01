@@ -1,6 +1,6 @@
 package exemploAlgoritmos_aula01082022;
 
-// algoritmo de ordenação para elementos de array.
+// algoritmo de ordenação do tipo int para elementos de array.
 
 public class SelectionSortAlgoritmo {
 
