@@ -44,4 +44,4 @@ public class SelectionSortCollection_Alg {
 		for (int i = 0; i < letra.size(); i++)
 			System.out.println(letra.get(i).nome + " : " + letra.get(i).idade);
 	}
-}
+} 

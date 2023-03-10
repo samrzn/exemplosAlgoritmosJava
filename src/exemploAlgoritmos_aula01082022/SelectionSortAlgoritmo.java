@@ -32,4 +32,4 @@ public class SelectionSortAlgoritmo {
 		for (int i = 0; i < numeral.length; i++)
 			System.out.println(numeral[i]);
 	}
-}
+} 

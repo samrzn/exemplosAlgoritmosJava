@@ -26,4 +26,4 @@ public class FibonacciAlgoritmoExp {
 		for (int x = 0; x < SIZE; x++)
 			System.out.println("Fibonacci(" + x + ") = " + value[x]);
 	}
-}
+} 

@@ -35,4 +35,4 @@ public class SelectionSortAlgoritmo_2 {
 		for (int i = 0; i < ordem.length; i++)
 			System.out.println(ordem[i].nome + " : " + ordem[i].idade);
 	}
-}
+} 

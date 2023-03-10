@@ -34,4 +34,4 @@ public class SelectionSortCollection_Alg_v2 {
 		for (Pessoa p : letra)
 			System.out.println(p.nome + " : " + p.idade);
 	}
-}
+} 
